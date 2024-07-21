@@ -1,0 +1,7 @@
+Case Studies:
+
+Online Ticket Booking System: Analyze the database design and write SQL queries to retrieve information about ticket sales, customer profiles, and event schedules.
+Hospital Management System: Examine the database schema and write queries to generate reports on patient records, doctor schedules, and medication inventory.
+Airline Reservation Database: Investigate the database structure and write queries to find available flights, passenger manifests, and booking history.
+Inventory Management for a Retail Chain: Analyze the database design and write SQL queries to generate reports on stock levels, sales trends, and supplier performance.
+University Alumni Database: Explore the database schema and write queries to retrieve information about alumni, their achievements, and engagement with the university.

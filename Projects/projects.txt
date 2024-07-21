@@ -1,0 +1,7 @@
+Projects:
+
+University Database Management System: Design and implement a database for a university to manage student information, courses, faculty, and other related data.
+Online Retail Database: Create a database for an e-commerce website to store customer, product, order, and inventory information.
+Library Management System: Build a database to manage the collection of books, borrowing records, and member information for a library.
+Employee Management System: Develop a database to store employee details, department information, payroll, and other HR-related data.
+Real Estate Management: Design a database to handle property listings, client information, transactions, and agent details for a real estate company.
